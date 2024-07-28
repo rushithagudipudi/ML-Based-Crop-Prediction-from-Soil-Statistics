@@ -6,6 +6,8 @@
 
 ->Increased crop yield prediction accuracy by 60%, enabling farmers to make informed planting decisions and improve productivity
 
+![image](https://github.com/user-attachments/assets/1173088c-ba99-4a8a-8365-b522d22385f4)
+
 # Technologies Used 
 Python: Programming language used for model development, data preprocessing, and web application development.
 
